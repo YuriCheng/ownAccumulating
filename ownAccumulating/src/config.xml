@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="javaBean" class="org.yona.reflection.spring.JavaBean">
+       <property name="userName">
+           <value>Yona</value>
+       </property>
+       <property name="password">
+           <value>12345678</value>
+       </property>
+    </bean>
+</beans>
