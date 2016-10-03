@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+    <job>
+       <pro name="work title" id ="a">
+           <value>C# Engineer</value>
+       </pro>
+       <pro name="work experience" id = "b">
+           <value>3 Year</value>
+       </pro>
+       <pro name="medical insurance" id = "c">
+           <value>high medical</value>
+       </pro>
+       <pro name="dental insurance" id = "d">
+           <value>high dental</value>
+       </pro>
+       <pro name="eye protection" id = "e">
+           <value>high protect</value>
+       </pro>
+       <pro name="401 K" id = "f">
+           <value>high 401 K</value>
+       </pro>
+       <pro name="minimum working hours" id = "g">
+           <value>20 h/week</value>
+       </pro>
+       <pro name="paid leave" id = "h">
+           <value>100 days/year</value>
+       </pro>
+       <pro name="employer name" id = "i">
+           <value>World Tech</value>
+       </pro>
+       <pro name="employer address" id = "j">
+           <value>SZ. China Earth Galaxy</value>
+       </pro>
+    </job>
+    <job>
+       <pro name="work title" id ="a">
+           <value>Java Engineer</value>
+       </pro>
+       <pro name="work experience" id = "b">
+           <value>1 Year</value>
+       </pro>
+       <pro name="medical insurance" id = "c">
+           <value>high medical</value>
+       </pro>
+       <pro name="dental insurance" id = "d">
+           <value>high dental</value>
+       </pro>
+       <pro name="eye protection" id = "e">
+           <value>high protect</value>
+       </pro>
+       <pro name="401 K" id = "f">
+           <value>high 401 K</value>
+       </pro>
+       <pro name="minimum working hours" id = "g">
+           <value>20 h/week</value>
+       </pro>
+       <pro name="paid leave" id = "h">
+           <value>100 days/year</value>
+       </pro>
+       <pro name="employer name" id = "i">
+           <value>World Tech</value>
+       </pro>
+       <pro name="employer address" id = "j">
+           <value>SZ. China Earth Galaxy</value>
+       </pro>
+    </job>
+    <job>
+       <pro name="work title" id ="a">
+           <value>UI Engineer</value>
+       </pro>
+       <pro name="work experience" id = "b">
+           <value>2 Year</value>
+       </pro>
+       <pro name="medical insurance" id = "c">
+           <value>high medical</value>
+       </pro>
+       <pro name="dental insurance" id = "d">
+           <value>high dental</value>
+       </pro>
+       <pro name="eye protection" id = "e">
+           <value>high protect</value>
+       </pro>
+       <pro name="401 K" id = "f">
+           <value>high 401 K</value>
+       </pro>
+       <pro name="minimum working hours" id = "g">
+           <value>20 h/week</value>
+       </pro>
+       <pro name="paid leave" id = "h">
+           <value>100 days/year</value>
+       </pro>
+       <pro name="employer name" id = "i">
+           <value>World Tech</value>
+       </pro>
+       <pro name="employer address" id = "j">
+           <value>SZ. China Earth Galaxy</value>
+       </pro>
+    </job>
+</jobs>
+
+
+
+<!--   a．工作头衔 
+  b．最低能力要求 
+  C．医疗保险 
+  d．牙医保险 
+  e。眼科保护 
+  f．401 K 
+  9．最少工作小时数 
+  h．带薪假 
+  i．雇主姓名 
+  j．雇主地址  -->
