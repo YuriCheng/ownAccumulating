@@ -1,4 +1,4 @@
-package org.yona.reflection.abstractfactory;
+package org.yona.design.abstractfactory;
 
 public class UnixBasicServer extends BasicServer{
 

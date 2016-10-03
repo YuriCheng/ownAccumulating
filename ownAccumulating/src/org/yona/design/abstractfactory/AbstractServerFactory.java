@@ -1,4 +1,4 @@
-package org.yona.reflection.abstractfactory;
+package org.yona.design.abstractfactory;
 
 /*请运用抽象工厂模式、存取器模式、私有方法、单例模式实现以下设计需求：
 假设有一个Web托管公司，该公司在Windows和UNIX平台上托管服务。
